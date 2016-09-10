@@ -1,0 +1,352 @@
+# Bulgarian translation for sopcast-player
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the sopcast-player package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sopcast-player\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2009-01-20 20:24+0100\n"
+"PO-Revision-Date: 2009-07-19 16:35+0000\n"
+"Last-Translator: Phoenix.bg <Unknown>\n"
+"Language-Team: Bulgarian <bg@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-05-06 12:52+0000\n"
+"X-Generator: Launchpad (build 15195)\n"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:88
+msgid "Retrying channel"
+msgstr "Презареждам канала"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:99
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:118
+msgid "Connecting"
+msgstr "Свързване..."
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:114
+msgid "Buffering"
+msgstr "Буфериране..."
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:124
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:131
+msgid "Buffer"
+msgstr "Буфер"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:213
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:813
+msgid "Channel Guide Last Updated"
+msgstr "Списъкът канали е последно ъпдейтван"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:231
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:240
+msgid "SopCast Player"
+msgstr "SopCast Плеър"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:289
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Channel Guide"
+msgstr "Списък канали"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:419
+msgid "Open Sop Address"
+msgstr "Отвори Sop Адрес"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:428
+msgid "Enter Sop Address"
+msgstr "Въведи Sop Адрес"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:475
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:872
+msgid "Name"
+msgstr "Име"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "Channel Group"
+msgstr "Група канали"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "Classification"
+msgstr "Класификация"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "Stream Format"
+msgstr "Потоков Формат"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "QC"
+msgstr "QC"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "QS"
+msgstr "QS"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:475
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:872
+msgid "Description"
+msgstr "Описание"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:475
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:872
+msgid "Channels"
+msgstr "Канали"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:579
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:608
+msgid "Press Esc to exit fullscreen"
+msgstr "Натисни Esc за изход"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:677
+msgid "Contacting Server"
+msgstr "Скачен за Сървъра"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:685
+msgid "Updating Database"
+msgstr "Ъпдейтвам БД"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:733
+msgid "Channel Guide Update Completed"
+msgstr "Ъпдейта на Списъка Канали Приключи"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:741
+msgid "Channel Guide Retrieval Failed Due to Network Problems"
+msgstr "Заявката към Списъка канали пропадна заради Мрежови Проблеми"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:759
+msgid "Downloading Channel Guide"
+msgstr "Изтегляне Списъка с канали"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_File"
+msgstr "_Файл"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "> Channel Guide"
+msgstr "> Списък канали"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "Bookmark this Channel"
+msgstr "Запомни този Канал"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "Volume:"
+msgstr "Сила на звука:"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_Fullscreen"
+msgstr "_Цял екран"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_Help"
+msgstr "_Помощ"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_View"
+msgstr "_Изглед"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_Bookmarks"
+msgstr "_Отметки"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "<i>Last Updated: </i>"
+msgstr "<i>Последно Ъпдейтван: </i>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "Last Updated: "
+msgstr "Последно Ъпдейтван: "
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "Never"
+msgstr "Никога"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Guide Auto-Update Frequency</b>"
+msgstr "<b>Често Авто-Ъпдейт на Списъка канали</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Guide Language</b>"
+msgstr "<b>Език на Списъка канали</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Guide Layout:</b>"
+msgstr "<b>Разположение на Списъка канали:</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Guide URL</b>"
+msgstr "<b>URL Адрес на Списъка канали</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Timeout</b>"
+msgstr "<b>Таймаут</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Media Player</b>"
+msgstr "<b>Медиа Плеър</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Ports</b>"
+msgstr "<b>Портове</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Classic (Separate windows)"
+msgstr "Класически (отделни прозорци)"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Command: "
+msgstr "Команда: "
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Frequency"
+msgstr "Честота"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "In-bound Port: "
+msgstr "Входящ Порт: "
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Language"
+msgstr "Език"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Out-bound Port: "
+msgstr "Изходящ Порт: "
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Player"
+msgstr "Плеър"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Static Ports"
+msgstr "Статични Портове"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Timeout"
+msgstr "Таймаут"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "URL: "
+msgstr "URL Адрес: "
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Unity (Single-window)"
+msgstr "Общо (единичен прозорец)"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Use External Player"
+msgstr "Използвай Външен Плеър"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Completed"
+msgstr "Приключи"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Server Down"
+msgstr "Сървъра Сдаде Багажа"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Downloading"
+msgstr "Изтегляне"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Static Ports Unavailable"
+msgstr "Статичните Портове са НЕДОСТЪПНИ"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid ""
+"Static ports unavailable, do you wish to continue using dynamic ports?"
+msgstr ""
+"Статичните Портове са НЕДОСТЪПНИ, искаш ли да продължа, използвайки "
+"динамични портове?"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:754
+msgid "<i>3 Seconds</i>"
+msgstr "<i>3 Секунди</i>"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:755
+msgid "<i>30 Seconds</i>"
+msgstr "<i>30 Секунди</i>"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:756
+msgid "<i>5 Minutes</i>"
+msgstr "<i>5 Минути</i>"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:757
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<i>Never</i>"
+msgstr "<i>Никога</i>"
+
+msgid "Screenshot"
+msgstr "Снимка на екрана"
+
+msgid "Name:"
+msgstr "Име:"
+
+msgid "Format:"
+msgstr "Формат:"
+
+msgid "Bitrate:"
+msgstr "Битрейт:"
+
+msgid "Channel Group:"
+msgstr "Група Канали:"
+
+msgid "Classification:"
+msgstr "Класификация:"
+
+msgid "Description:"
+msgstr "Описание:"
+
+msgid "Preferences"
+msgstr "Предпочитания"
+
+msgid "Play"
+msgstr "Изпълняване"
+
+msgid "Stop"
+msgstr "Спиране"
+
+msgid "Always On Top"
+msgstr "Винаги най-отгоре"
+
+msgid "Show Controls"
+msgstr "Показвай Контролите"
+
+msgid "Chinese"
+msgstr "Китайски"
+
+msgid "English"
+msgstr "Английски"
+
+msgid "<i>Daily</i>"
+msgstr "<i>Дневно</i>"
+
+msgid "<i>Program Start</i>"
+msgstr "<i>Начало на Програмата</i>"
+
+msgid "<big><b>Channel Bookmark</b></big>"
+msgstr "<big><b>Отметка на Канала</b></big>"
+
+msgid "_Edit"
+msgstr "_Редактиране"
+
+msgid "Properties"
+msgstr "Свойства"
+
+msgid "Bookmark"
+msgstr "Отметка"
+
+msgid "Show Toolbar"
+msgstr "Показване на лентата с инструменти"

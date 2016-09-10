@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=SopCast Player
+GenericName=Internet Television
+Comment=GUI front-end to SopCast
+TryExec=sopcast-player
+Exec=sopcast-player %U
+Icon=sopcast-player
+Terminal=false
+Type=Application
+Categories=GNOME;AudioVideo;P2P;Video;TV;GTK;
+StartupNotify=true
+MimeType=video/x-ms-wmv;x-scheme-handler/sop;

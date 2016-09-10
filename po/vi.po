@@ -1,0 +1,351 @@
+# Vietnamese translation for sopcast-player
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the sopcast-player package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sopcast-player\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2009-01-20 20:24+0100\n"
+"PO-Revision-Date: 2011-03-15 23:54+0000\n"
+"Last-Translator: Nguyen Duc Long <longnd.s8@gmail.com>\n"
+"Language-Team: Vietnamese <vi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-05-06 12:52+0000\n"
+"X-Generator: Launchpad (build 15195)\n"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:88
+msgid "Retrying channel"
+msgstr "Đang tải lại kênh"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:99
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:118
+msgid "Connecting"
+msgstr "Đang kết nối"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:114
+msgid "Buffering"
+msgstr "Đang tải dữ liệu"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:124
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:131
+msgid "Buffer"
+msgstr "Bộ đệm"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:213
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:813
+msgid "Channel Guide Last Updated"
+msgstr "Danh sách kênh được cập nhật gần nhất"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:231
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:240
+msgid "SopCast Player"
+msgstr "SopCast Player"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:289
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Channel Guide"
+msgstr "Danh sách kênh"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:419
+msgid "Open Sop Address"
+msgstr "Mở địa chỉ"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:428
+msgid "Enter Sop Address"
+msgstr "Nhập địa chỉ kênh"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:475
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:872
+msgid "Name"
+msgstr "Tên"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "Channel Group"
+msgstr "Nhóm kênh"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "Classification"
+msgstr "Phân loại"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "Stream Format"
+msgstr "Định dạng luồng"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "QC"
+msgstr "QC"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "QS"
+msgstr "QS"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:475
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:872
+msgid "Description"
+msgstr "Mô tả"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:475
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:872
+msgid "Channels"
+msgstr "Các kênh"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:579
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:608
+msgid "Press Esc to exit fullscreen"
+msgstr "Ấn Esc để thoát chế độ toàn màn hình"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:677
+msgid "Contacting Server"
+msgstr "Đang kết nối với máy chủ"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:685
+msgid "Updating Database"
+msgstr "Đang cập nhật cơ sở dữ liệu"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:733
+msgid "Channel Guide Update Completed"
+msgstr "Danh sách kênh đã cập nhật xong"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:741
+msgid "Channel Guide Retrieval Failed Due to Network Problems"
+msgstr "Danh sách kênh không cập nhật do lỗi về mạng"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:759
+msgid "Downloading Channel Guide"
+msgstr "Đang tải danh sách kênh"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_File"
+msgstr "_Tập tin"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "> Channel Guide"
+msgstr "> Danh sách kênh"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "Bookmark this Channel"
+msgstr "Đánh dấu kênh này"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "Volume:"
+msgstr "Âm lượng"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_Fullscreen"
+msgstr "_Toàn màn hình"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_Help"
+msgstr "_Trợ giúp"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_View"
+msgstr "_Xem"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_Bookmarks"
+msgstr "_Đánh dấu"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "<i>Last Updated: </i>"
+msgstr "<i>Cập nhật cuối: </i>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "Last Updated: "
+msgstr "Cập nhật cuối: "
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "Never"
+msgstr "Không bao giờ"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Guide Auto-Update Frequency</b>"
+msgstr "<b>Tần suất cập nhật Danh sách kênh Tự động</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Guide Language</b>"
+msgstr "<b>Ngôn ngữ Danh sách kênh</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Guide Layout:</b>"
+msgstr "<b>Bảng danh sách kênh</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Guide URL</b>"
+msgstr "<b>Địa chỉ để tải Danh sách kênh</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Timeout</b>"
+msgstr "<b>Kênh tạm ngưng</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Media Player</b>"
+msgstr "<b>Trình xem phim</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Ports</b>"
+msgstr "<b>Cổng</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Classic (Separate windows)"
+msgstr "Cổ điển (Các cửa sổ rời nhau)"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Command: "
+msgstr "Lệnh: "
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Frequency"
+msgstr "Tần số"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "In-bound Port: "
+msgstr "Giới hạn cổng vào "
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Out-bound Port: "
+msgstr "Giới hạn cổng ra "
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Player"
+msgstr "Trình xem phim"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Static Ports"
+msgstr "Cổng xác định"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Timeout"
+msgstr "Quá thời hạn cho phép"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "URL: "
+msgstr "URL: "
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Unity (Single-window)"
+msgstr "Thống nhất ( chỉ một cửa sổ)"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Use External Player"
+msgstr "Sử dụng chương trình xem phim khác"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Completed"
+msgstr "Hoàn tất"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Server Down"
+msgstr "Dịch vụ tạm ngưng"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Downloading"
+msgstr "Đang tải về"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Static Ports Unavailable"
+msgstr "Cổng tĩnh không có giá trị"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid ""
+"Static ports unavailable, do you wish to continue using dynamic ports?"
+msgstr ""
+"Cổng tĩnh không có giá trị. Bạn muốn tiếp tục dùng các cổng động không?"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:754
+msgid "<i>3 Seconds</i>"
+msgstr "<i>3 giây</i>"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:755
+msgid "<i>30 Seconds</i>"
+msgstr "<i>30 giây</i>"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:756
+msgid "<i>5 Minutes</i>"
+msgstr "<i>5 phút</i>"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:757
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<i>Never</i>"
+msgstr "<i>Không bao giờ</i>"
+
+msgid "Screenshot"
+msgstr "Chụp ảnh màn hình"
+
+msgid "Name:"
+msgstr "Tên:"
+
+msgid "Format:"
+msgstr "Định dạng:"
+
+msgid "Bitrate:"
+msgstr "Tốc độ bit:"
+
+msgid "Channel Group:"
+msgstr "Nhóm kênh:"
+
+msgid "Classification:"
+msgstr "Phân loại:"
+
+msgid "Description:"
+msgstr "Mô tả:"
+
+msgid "Preferences"
+msgstr "Tùy chỉnh"
+
+msgid "Play"
+msgstr "Phát"
+
+msgid "Stop"
+msgstr "Dừng"
+
+msgid "Always On Top"
+msgstr "Luôn ở trên"
+
+msgid "Show Controls"
+msgstr "Hiện Bảng điều khiển"
+
+msgid "Chinese"
+msgstr "Tiếng Trung Quốc"
+
+msgid "English"
+msgstr "Tiếng Anh"
+
+msgid "<i>Daily</i>"
+msgstr "<i>Hàng ngày</i>"
+
+msgid "<i>Program Start</i>"
+msgstr "<i>Bắt đầu chương trình</i>"
+
+msgid "<big><b>Channel Bookmark</b></big>"
+msgstr "<big><b>Các kênh đã lưu</b></big>"
+
+msgid "_Edit"
+msgstr "_Chỉnh Sửa"
+
+msgid "Properties"
+msgstr "Thuộc tính"
+
+msgid "Bookmark"
+msgstr "Đánh dấu"
+
+msgid "Show Toolbar"
+msgstr "Hiện thanh công cụ"

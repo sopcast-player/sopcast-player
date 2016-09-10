@@ -1,0 +1,350 @@
+# English (Australia) translation for sopcast-player
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the sopcast-player package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sopcast-player\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2009-01-20 20:24+0100\n"
+"PO-Revision-Date: 2011-11-24 23:01+0000\n"
+"Last-Translator: Rafael Neri <Unknown>\n"
+"Language-Team: English (Australia) <en_AU@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-05-06 12:52+0000\n"
+"X-Generator: Launchpad (build 15195)\n"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:88
+msgid "Retrying channel"
+msgstr "Retrying channel"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:99
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:118
+msgid "Connecting"
+msgstr "Connecting"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:114
+msgid "Buffering"
+msgstr "Buffering"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:124
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:131
+msgid "Buffer"
+msgstr "Buffer"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:213
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:813
+msgid "Channel Guide Last Updated"
+msgstr "Channel Guide Last Updated"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:231
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:240
+msgid "SopCast Player"
+msgstr "SopCast Player"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:289
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Channel Guide"
+msgstr "Channel Guide"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:419
+msgid "Open Sop Address"
+msgstr "Open Sop Address"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:428
+msgid "Enter Sop Address"
+msgstr "Enter Sop Address"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:475
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:872
+msgid "Name"
+msgstr "Name"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "Channel Group"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "Classification"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "Stream Format"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "QC"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "QS"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:475
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:872
+msgid "Description"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:475
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:872
+msgid "Channels"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:579
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:608
+msgid "Press Esc to exit fullscreen"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:677
+msgid "Contacting Server"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:685
+msgid "Updating Database"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:733
+msgid "Channel Guide Update Completed"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:741
+msgid "Channel Guide Retrieval Failed Due to Network Problems"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:759
+msgid "Downloading Channel Guide"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_File"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "> Channel Guide"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "Bookmark this Channel"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "Volume:"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_Fullscreen"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_Help"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_View"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_Bookmarks"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "<i>Last Updated: </i>"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "Last Updated: "
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "Never"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Guide Auto-Update Frequency</b>"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Guide Language</b>"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Guide Layout:</b>"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Guide URL</b>"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Timeout</b>"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Media Player</b>"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Ports</b>"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Classic (Separate windows)"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Command: "
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Frequency"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "In-bound Port: "
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Language"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Out-bound Port: "
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Player"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Static Ports"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Timeout"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "URL: "
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Unity (Single-window)"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Use External Player"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Completed"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Server Down"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Downloading"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Static Ports Unavailable"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid ""
+"Static ports unavailable, do you wish to continue using dynamic ports?"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:754
+msgid "<i>3 Seconds</i>"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:755
+msgid "<i>30 Seconds</i>"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:756
+msgid "<i>5 Minutes</i>"
+msgstr ""
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:757
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<i>Never</i>"
+msgstr ""
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "Format:"
+msgstr ""
+
+msgid "Bitrate:"
+msgstr ""
+
+msgid "Channel Group:"
+msgstr ""
+
+msgid "Classification:"
+msgstr ""
+
+msgid "Description:"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Play"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "Always On Top"
+msgstr ""
+
+msgid "Show Controls"
+msgstr ""
+
+msgid "Chinese"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "<i>Daily</i>"
+msgstr ""
+
+msgid "<i>Program Start</i>"
+msgstr ""
+
+msgid "<big><b>Channel Bookmark</b></big>"
+msgstr ""
+
+msgid "_Edit"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Bookmark"
+msgstr ""
+
+msgid "Show Toolbar"
+msgstr ""

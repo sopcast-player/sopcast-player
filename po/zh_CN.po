@@ -1,0 +1,351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pySopCast 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-20 20:24+0100\n"
+"PO-Revision-Date: 2009-12-21 17:42+0000\n"
+"Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
+"Language-Team: flyguy97 <flyguy97@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-05-06 12:52+0000\n"
+"X-Generator: Launchpad (build 15195)\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /home/jason/Desktop/SopCast-Player\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _\n"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:88
+msgid "Retrying channel"
+msgstr "正在重试"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:99
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:118
+msgid "Connecting"
+msgstr "正在连接"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:114
+msgid "Buffering"
+msgstr "正在缓冲"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:124
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:131
+msgid "Buffer"
+msgstr "缓冲"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:213
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:813
+msgid "Channel Guide Last Updated"
+msgstr "上次更新频道指南："
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:231
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:240
+msgid "SopCast Player"
+msgstr "SopCast Player"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:289
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Channel Guide"
+msgstr "频道指南"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:419
+msgid "Open Sop Address"
+msgstr "打开Sop地址"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:428
+msgid "Enter Sop Address"
+msgstr "输入Sop地址"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:475
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:872
+msgid "Name"
+msgstr "频道名"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "Channel Group"
+msgstr "频道组"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "Classification"
+msgstr "分类"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "Stream Format"
+msgstr "视频流格式"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "QC"
+msgstr "QC"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+msgid "QS"
+msgstr "QS"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:470
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:475
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:865
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:872
+msgid "Description"
+msgstr "描述"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:475
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:872
+msgid "Channels"
+msgstr "频道"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:579
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:608
+msgid "Press Esc to exit fullscreen"
+msgstr "按 Esc 键退出全屏"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:677
+msgid "Contacting Server"
+msgstr "尝试连接服务器"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:685
+msgid "Updating Database"
+msgstr "正在升级数据库"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:733
+msgid "Channel Guide Update Completed"
+msgstr "频道指南更新完成"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:741
+msgid "Channel Guide Retrieval Failed Due to Network Problems"
+msgstr "由于网络问题获取频道指南失败"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:759
+msgid "Downloading Channel Guide"
+msgstr "正在下载频道指南"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_File"
+msgstr "文件(_F)"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "> Channel Guide"
+msgstr "> 频道指南"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "Bookmark this Channel"
+msgstr "收藏本频道"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "Volume:"
+msgstr "音量："
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_Fullscreen"
+msgstr "全屏(_F)"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_Help"
+msgstr "帮助(_H)"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_View"
+msgstr "查看(_V)"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "_Bookmarks"
+msgstr "收藏夹(_B)"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "<i>Last Updated: </i>"
+msgstr "<i>上次升级：</i>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "Last Updated: "
+msgstr "上次升级： "
+
+#: /home/jason/Desktop/SopCast-Player/ui/pySopCast.glade
+msgid "Never"
+msgstr "从未升级"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Guide Auto-Update Frequency</b>"
+msgstr "<b>频道指南自动更新频率</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Guide Language</b>"
+msgstr "<b>频道指南语言</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Guide Layout:</b>"
+msgstr "<b>频道指南布局：</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Guide URL</b>"
+msgstr "<b>频道指南URL地址</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Channel Timeout</b>"
+msgstr "<b>频道超时</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Media Player</b>"
+msgstr "<b>媒体播放器</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<b>Ports</b>"
+msgstr "<b>端口</b>"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Classic (Separate windows)"
+msgstr "经典模式（独立窗口）"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Command: "
+msgstr "命令： "
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Frequency"
+msgstr "频率"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "In-bound Port: "
+msgstr "入口 "
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Language"
+msgstr "语言"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Out-bound Port: "
+msgstr "出口 "
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Player"
+msgstr "播放器"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Static Ports"
+msgstr "静态端口"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Timeout"
+msgstr "超时"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "URL: "
+msgstr "URL地址： "
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Unity (Single-window)"
+msgstr "整合模式（单一窗口）"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Use External Player"
+msgstr "使用外部播放器"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Completed"
+msgstr "完成"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Server Down"
+msgstr "服务器关闭"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Downloading"
+msgstr "正在下载"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "Static Ports Unavailable"
+msgstr "静态端口不可用"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid ""
+"Static ports unavailable, do you wish to continue using dynamic ports?"
+msgstr "静态端口不可用，你是否愿意使用动态端口继续？"
+
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:754
+msgid "<i>3 Seconds</i>"
+msgstr "<i>3秒</i>"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:755
+msgid "<i>30 Seconds</i>"
+msgstr "<i>30秒</i>"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:756
+msgid "<i>5 Minutes</i>"
+msgstr "<i>5分</i>"
+
+#: /home/jason/Desktop/SopCast-Player/sopcast-player.py:757
+#: /home/jason/Desktop/SopCast-Player/ui/Options.glade
+msgid "<i>Never</i>"
+msgstr "<i>从不</i>"
+
+msgid "Screenshot"
+msgstr "截图"
+
+msgid "Name:"
+msgstr "名称："
+
+msgid "Format:"
+msgstr "格式："
+
+msgid "Bitrate:"
+msgstr "比特率："
+
+msgid "Channel Group:"
+msgstr "频道组："
+
+msgid "Classification:"
+msgstr "分类："
+
+msgid "Description:"
+msgstr "描述："
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Play"
+msgstr "播放"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Always On Top"
+msgstr "总是置顶"
+
+msgid "Show Controls"
+msgstr "显示按钮和边框"
+
+msgid "Chinese"
+msgstr "汉语"
+
+msgid "English"
+msgstr "English"
+
+msgid "<i>Daily</i>"
+msgstr "<i>每天</i>"
+
+msgid "<i>Program Start</i>"
+msgstr "<i>程序启动时</i>"
+
+msgid "<big><b>Channel Bookmark</b></big>"
+msgstr "<big><b>频道收藏</b></big>"
+
+msgid "_Edit"
+msgstr "编辑(_E)"
+
+msgid "Properties"
+msgstr "属性"
+
+msgid "Bookmark"
+msgstr "收藏频道"
+
+msgid "Show Toolbar"
+msgstr "显示工具栏"

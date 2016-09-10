@@ -1,0 +1,36 @@
+==Build Dependencies==
+-python
+-gettext
+-python-setuptools
+
+
+==Run-Time Dependencies==
+-python
+-libvlc-dev
+-sp-auth
+-hicolor-icon-theme
+-python-glade2
+-python-gobject
+-python-gtk2
+
+
+==Build Instructions==
+To install SopCast Player use the follow incantations (for system-wide installation be sure to do make install with root priveldges, e.g. sudo):
+make
+make install
+
+
+==Alternative Build Instructions==
+An alternative to using the default directories would be as follows
+make PREFIX=/usr/local DESTDIR=my_destination_dir
+make install
+
+
+==Uninstall Instructions==
+To uninstall sopcast-player, do:
+     make uninstall
+
+==Make Clean Instructions==
+To clean the source tree, do:
+     make clean
+     

@@ -1,0 +1,24 @@
+<gconfschemafile>
+  <schemalist>
+    <schema>
+      <key>/schemas/desktop/gnome/url-handlers/sop/command</key>
+      <applyto>/desktop/gnome/url-handlers/sop/command</applyto>
+      <owner>sopcast-player</owner>
+      <type>string</type>
+      <default>@EXECUTABLE@ %s</default>
+      <locale name="C">
+        <short>The handler for "sop://" URLs</short>
+      </locale>
+    </schema>
+    <schema>
+      <key>/schemas/desktop/gnome/url-handlers/sop/enabled</key>
+      <applyto>/desktop/gnome/url-handlers/sop/enabled</applyto>
+      <owner>sopcast-player</owner>
+      <type>bool</type>
+      <default>true</default>
+      <locale name="C">
+        <short>Set to true to activate</short>
+      </locale>
+    </schema>
+  </schemalist>
+</gconfschemafile>
