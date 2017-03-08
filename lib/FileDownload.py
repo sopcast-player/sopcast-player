@@ -37,7 +37,7 @@ class FileDownload:
 			self.report_handler = None
 			
 		if self.url == None or self.file == None:
-			raise Exception, "url and file are required arguments"
+			raise Exception("url and file are required arguments")
 
 
 		old_socket_timeout = socket.getdefaulttimeout()
@@ -46,7 +46,7 @@ class FileDownload:
 		try:
 			urllib.urlretrieve(url, file, report_handler)
 			urllib.urlcleanup()
-		except IOError, e:
+		except IOError as e:
 			raise e
 		
 		file = None

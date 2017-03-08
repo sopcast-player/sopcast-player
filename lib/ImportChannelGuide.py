@@ -30,7 +30,7 @@ class ImportChannelGuide(object):
 	
 	def getText(self, nodelist):
 		rc = ""
-	 	for node in nodelist:
+		for node in nodelist:
 			if node.nodeType == node.TEXT_NODE:
 				rc = node.data
 		return rc

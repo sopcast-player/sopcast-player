@@ -47,7 +47,7 @@ class Listen:
 		if self.connect_to_server() == True:
 			sent = self.sock.send(msg)
 			if sent == 0:
-				raise RuntimeError, "socket connection broken"
+				raise RuntimeError("socket connection broken")
 			
 	def receive_msg(self):
 		BUFSIZE = 128
@@ -57,7 +57,7 @@ class Listen:
 			chunk = self.sock.recv(BUFSIZE)
 				
 			if chunk == '':
-				raise RuntimeError, "socket connection broken"
+				raise RuntimeError("socket connection broken")
 			msg = msg + chunk
 		
 		self.sock.close()

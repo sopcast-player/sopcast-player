@@ -77,20 +77,20 @@ class VLCWidget(gtk.DrawingArea):
 	
 	def pos_callback(self, event, player):
 		if player.get_time() / 1000 / 3600 / 24 > 0:
-			print "%s day(s) %s:%s:%s/%s:%s:%s" % (player.get_time() / 1000 / 3600 / 24,
+			print("%s day(s) %s:%s:%s/%s:%s:%s" % (player.get_time() / 1000 / 3600 / 24,
 				self.format_time_part(player.get_time() / 1000 / 3600 % 24, True),
 				self.format_time_part(player.get_time() / 1000 / 60 % 60),
 				self.format_time_part(player.get_time() / 1000 % 60),
 				self.format_time_part(player.get_length() / 1000 / 3600, True),
 				self.format_time_part(player.get_length() / 1000 / 60 % 60),
-				self.format_time_part(player.get_length() / 1000 % 60))
+				self.format_time_part(player.get_length() / 1000 % 60)))
 		else:
-			print "%s:%s:%s/%s:%s:%s" % (self.format_time_part(player.get_time() / 1000 / 3600, True),
+			print("%s:%s:%s/%s:%s:%s" % (self.format_time_part(player.get_time() / 1000 / 3600, True),
 				self.format_time_part(player.get_time() / 1000 / 60 % 60),
 				self.format_time_part(player.get_time() / 1000 % 60),
 				self.format_time_part(player.get_length() / 1000 / 3600, True),
 				self.format_time_part(player.get_length() / 1000 / 60 % 60),
-				self.format_time_part(player.get_length() / 1000 % 60))
+				self.format_time_part(player.get_length() / 1000 % 60)))
         	#print('%s to %.2f%% (%.2f%%)' % (event.type, event.u.new_position * 100, player.get_position() * 100))
 
 	def format_time_part(self, part, hour=False):

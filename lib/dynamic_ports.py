@@ -43,4 +43,4 @@ class DynamicPorts:
 if __name__ == '__main__':
 	dyn = DynamicPorts()
 	inbound_port, outbound_port = dyn.get_ports()
-	print "in: %d out: %d" % (inbound_port, outbound_port)
+	print("in: %d out: %d" % (inbound_port, outbound_port))
