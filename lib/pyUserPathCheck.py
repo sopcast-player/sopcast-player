@@ -16,18 +16,18 @@
 
 import os
 
+
 class UserPathCheck:
-	def __init__(self, file_name):
-		self.file_name = file_name
-	
-	def __get_user_path_array(self):
-		return os.environ['PATH'].split(':')
-	
-	def file_exists(self):
-		file_exists = False
-		for path in self.__get_user_path_array():
-			if os.path.isfile(os.path.join(path, self.file_name)):
-				file_exists = True
-				break
-		return file_exists
-			
+    def __init__(self, file_name):
+        self.file_name = file_name
+
+    def __get_user_path_array(self):
+        return os.environ['PATH'].split(':')
+
+    def file_exists(self):
+        file_exists = False
+        for path in self.__get_user_path_array():
+            if os.path.isfile(os.path.join(path, self.file_name)):
+                file_exists = True
+                break
+        return file_exists

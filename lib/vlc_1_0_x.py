@@ -5455,9 +5455,9 @@ callbackmethod=ctypes.CFUNCTYPE(None, ctypes.POINTER(Event), ctypes.c_void_p)
 # Example callback method
 @callbackmethod
 def debug_callback(event, data):
-    print "Debug callback method"
-    print "Event:", event.type
-    print "Data", data
+    print("Debug callback method")
+    print("Event:", event.type)
+    print("Data", data)
 
 if __name__ == '__main__':
     try:
@@ -5477,7 +5477,7 @@ if __name__ == '__main__':
 
     @callbackmethod
     def end_callback(event, data):
-        print "End of stream"
+        print("End of stream")
         sys.exit(0)
 
     if sys.argv[1:]:
@@ -5493,14 +5493,14 @@ if __name__ == '__main__':
         def print_info():
             """Print information about the media."""
             media=player.get_media()
-            print "State:", player.get_state()
-            print "Media:", media.get_mrl()
+            print("State:", player.get_state())
+            print("Media:", media.get_mrl())
             try:
-                print "Current time:", player.get_time(), "/", media.get_duration()
-                print "Position:", player.get_position()
-                print "FPS:", player.get_fps()
-                print "Rate:", player.get_rate()
-                print "Video size: (%d, %d)" % (player.video_get_width(), player.video_get_height())
+                print("Current time:", player.get_time(), "/", media.get_duration())
+                print("Position:", player.get_position())
+                print("FPS:", player.get_fps())
+                print("Rate:", player.get_rate())
+                print("Video size: (%d, %d)" % (player.video_get_width(), player.video_get_height()))
             except Exception:
                 pass
 
@@ -5523,10 +5523,10 @@ if __name__ == '__main__':
         def print_help():
             """Print help
             """
-            print "Commands:"
+            print("Commands:")
             for k, m in keybindings.iteritems():
-                print "  %s: %s" % (k, (m.__doc__ or m.__name__).splitlines()[0])
-            print " 1-9: go to the given fraction of the movie"
+                print("  %s: %s" % (k, (m.__doc__ or m.__name__).splitlines()[0]))
+            print(" 1-9: go to the given fraction of the movie")
 
         def quit_app():
             """Exit."""
@@ -5544,7 +5544,7 @@ if __name__ == '__main__':
             'q': quit_app,
             }
 
-        print "Press q to quit, ? to get help."
+        print("Press q to quit, ? to get help.")
         while True:
             k=getch()
             o=ord(k)
